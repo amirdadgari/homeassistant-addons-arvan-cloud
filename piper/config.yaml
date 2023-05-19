@@ -26,4 +26,4 @@ schema:
 ports:
   "10200/tcp": null
 homeassistant: 2023.5.0.dev20230418
-image: homeassistant/{arch}-addon-piper
+image: docker.arvancloud.ir/homeassistant/{arch}-addon-piper
